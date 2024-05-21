@@ -66,6 +66,14 @@ brew install —cask font-d2coding
 
 ---
 
+## nerd font brew로 설치하기
+
+```bash
+brew install font-hack-nerd-font
+```
+
+---
+
 ### intellij 세팅
 
 - Insert selected suggestion by pressing space, dot, or other context-dependent keys
